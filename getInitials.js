@@ -1,6 +1,6 @@
 function getInitials(name) {
   return name
     .split(" ")
-    .map((word) => word.charAt(0).toLowerCase())
+    .map((word) => word.charAt(0).toUpperCase())
     .join("");
 }
