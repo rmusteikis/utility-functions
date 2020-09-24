@@ -9,6 +9,9 @@ impedit quia
 Sit ex odio numquam aut porro Iusto reprehenderit deleniti sint saepe quisquam? Alias dolorum facilis animi sint ea.
 Similique fuga doloribus fugiat enim tempore Deserunt sed dolores facere mollitia.
 
+### Step 3: usage
+Adipisicing alias repudiandae error reiciendis ipsam Reiciendis libero odit repellendus nam commodi
+
 ## Examples
 
 ```
